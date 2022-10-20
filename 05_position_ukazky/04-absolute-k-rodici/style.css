@@ -10,8 +10,8 @@
 .potomek {
     /* zde dopis absolutni pozicovani potomka */
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    top: 250px;
+    left:20
 }
 
 
